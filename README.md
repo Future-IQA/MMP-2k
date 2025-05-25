@@ -119,4 +119,5 @@ License details: https://creativecommons.org/licenses/by-nc-sa/4.0/
 Attribution: [MMP-2k].
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
-[![Stars](https://img.shields.io/github/stars/MMP-2k/MMP-2k.svg?style=social)](https://github.com/MMP-2k/MMP-2k)
+[![Stars](https://img.shields.io/github/stars/Future-IQA/MMP-2k.svg?style=social)](https://github.com/Future-IQA/MMP-2k)
+
