@@ -9,7 +9,7 @@
 ## ✨**Overview**
 #### 📚 Official Repository for:
  MMP-2K: A BENCHMARK MULTI-LABELED MACRO PHOTOGRAPHY IMAGE QUALITY ASSESSMENT DATABASE  
-
+🔗 **[Read on arXiv](https://arxiv.org/abs/2505.19065)**  
 #### ✒️ **Authors**
 
 [**Jiashuo Chang**](https://github.com/SJHPCJS)<sup>†</sup>, [**Zhengyi Li**](https://github.com/Zhengyi1212)<sup>†</sup>, [**Jianxun Lou**](https://scholar.google.com/citations?user=pPmIqeoAAAAJ&hl), [**Zhen Qiu**](https://scholar.google.com/citations?hl=en&user=uDy8DnMAAAAJ), [**Hanhe Lin**](https://scholar.google.com/citations?user=PtY7WbYAAAAJ&hl=en)
@@ -108,10 +108,30 @@ This paper has been **accepted** at the [IEEE International Conference on Image 
 ---
 ## **Acknowledgement**
 📬 Contact
-For questions, feel free to contact us at this email:
-Thanks for visiting! If you find this project helpful, consider giving it a ⭐ and cite!
-BieTex:
+For questions, feel free to contact us via email:
 
+- **Jiashuo Chang**: [2542762@dundee.ac.uk](mailto:2542762@dundee.ac.uk)  
+- **Zhengyi Li**: [2542721@dundee.ac.uk](mailto:2542721@dundee.ac.uk)
+
+Thanks for visiting! If you find this project helpful, consider giving it a ⭐ and cite:
+
+> Jiashuo Chang†, Zhengyi Li†, Jianxun Lou, Zhen Qiu, Hanhe Lin.  
+> **MMP-2K: A Benchmark Multi-Labeled Macro Photography Image Quality Assessment Database**.  
+> *Accepted at IEEE International Conference on Image Processing (ICIP), 2025.*  
+> [arXiv:2505.19065](https://arxiv.org/abs/2505.19065)
+
+### 📚 BibTeX
+
+```bibtex
+@article{chang2025mmp2k,
+  title={MMP-2K: A Benchmark Multi-Labeled Macro Photography Image Quality Assessment Database},
+  author={Chang, Jiashuo and Li, Zhengyi and Lou, Jianxun and Qiu, Zhen and Lin, Hanhe},
+  note={Accepted at IEEE International Conference on Image Processing (ICIP), 2025.},
+  journal={arXiv preprint arXiv:2505.19065},
+  year={2025}
+}
+
+```
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 You are free to share and adapt this dataset, provided that you give appropriate credit, use it only for non-commercial purposes, and distribute your contributions under the same license.
 
