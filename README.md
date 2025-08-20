@@ -10,6 +10,7 @@
 #### 📚 Official Repository for:
  MMP-2K: A BENCHMARK MULTI-LABELED MACRO PHOTOGRAPHY IMAGE QUALITY ASSESSMENT DATABASE  
 🔗 **[Read on arXiv](https://arxiv.org/abs/2505.19065)**  
+🔗 **[Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11084596)**
 #### ✒️ **Authors**
 
 [**Jiashuo Chang**](https://github.com/SJHPCJS)<sup>†</sup>, [**Zhengyi Li**](https://github.com/Zhengyi1212)<sup>†</sup>, [**Jianxun Lou**](https://scholar.google.com/citations?user=pPmIqeoAAAAJ&hl), [**Zhen Qiu**](https://scholar.google.com/citations?hl=en&user=uDy8DnMAAAAJ), [**Hanhe Lin**](https://scholar.google.com/citations?user=PtY7WbYAAAAJ&hl=en)
