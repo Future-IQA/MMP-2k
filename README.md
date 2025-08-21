@@ -124,13 +124,17 @@ Thanks for visiting! If you find this project helpful, consider giving it a ⭐ 
 ### 📚 BibTeX
 
 ```bibtex
-@article{chang2025mmp2k,
-  title={MMP-2K: A Benchmark Multi-Labeled Macro Photography Image Quality Assessment Database},
+@mmp2k{11084596,
   author={Chang, Jiashuo and Li, Zhengyi and Lou, Jianxun and Qiu, Zhen and Lin, Hanhe},
-  note={Accepted at IEEE International Conference on Image Processing (ICIP), 2025.},
-  journal={arXiv preprint arXiv:2505.19065},
-  year={2025}
-}
+  booktitle={2025 IEEE International Conference on Image Processing (ICIP)}, 
+  title={MMP-2k: A Benchmark Multi-Labeled Macro Photography Image Quality Assessment Database}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={169-174},
+  keywords={Photography;Image quality;Measurement;Biomedical equipment;Accuracy;Databases;Image processing;Medical services;Benchmark testing;Distortion;Macro photography;image quality assessment;subjective study;benchmark database},
+  doi={10.1109/ICIP55913.2025.11084596}}
+
 
 ```
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
