@@ -116,10 +116,11 @@ For questions, feel free to contact us via email:
 
 Thanks for visiting! If you find this project helpful, consider giving it a ⭐ and cite:
 
-> Jiashuo Chang†, Zhengyi Li†, Jianxun Lou, Zhen Qiu, Hanhe Lin.  
+> Jiashuo Chang, Zhengyi Li, Jianxun Lou, Zhen Qiu, Hanhe Lin.  
 > **MMP-2K: A Benchmark Multi-Labeled Macro Photography Image Quality Assessment Database**.  
-> *Accepted at IEEE International Conference on Image Processing (ICIP), 2025.*  
-> [arXiv:2505.19065](https://arxiv.org/abs/2505.19065)
+> *Proceedings of the 2025 IEEE International Conference on Image Processing (ICIP), Anchorage, AK, USA.*  
+> IEEE, 2025. [doi:10.1109/ICIP55913.2025.11084596](https://doi.org/10.1109/ICIP55913.2025.11084596)
+
 
 ### 📚 BibTeX
 
