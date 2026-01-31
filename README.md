@@ -98,13 +98,7 @@ This paper has been **accepted** at the [IEEE International Conference on Image 
 
 #### Option 2: Download the MMP-2k database from [Hugging Face](https://huggingface.co/datasets/MMP-2k/MMP-2k).
 
----
 
-## 🔜 **TODO**
-#### ~~Build offical github repository~~
-#### ~~Release samples on github repository~~
-#### ~~Release samples on huggingface~~
-#### ~~Release the MMP-2k with MOSs and quality reports on huggingface and github~~
 
 ---
 ## **Acknowledgement**
